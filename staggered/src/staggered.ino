@@ -21,7 +21,7 @@ void setup() {
 }
 
 void loop() {
-	for (int i = 2; i < 4; i++){ // Output pins are 2, 3, and 4
+	for (int i = 2; i < 5; i++){ // Output pins are 2, 3, and 4
 		digitalWrite(led, HIGH);
 		digitalWrite(i, HIGH);
 		delay(cPulseLength);
