@@ -1,5 +1,5 @@
 /*
-  Projector_1.ino
+  simultaneous.ino
   Dylan Auty, 27/7/15
   -----------
   Generates pulses of the correct length to advance 3
@@ -8,7 +8,7 @@
   -----------
   To work, pulses must be used to control 20V pulse across pins
   2 + 3 of 6 pin DIN socket (originally to take a remote control).
-  Transistor with short (<0.2s) slew a
+  Additional hardware is needed.
  */
 
 int led = 13;
