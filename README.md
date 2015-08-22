@@ -1,2 +1,2 @@
 # projectors
-Arduino script to advance 3 slide projectors in order
+Arduino scripts to advance 3 Kodak slide projectors in various ways.
