@@ -10,9 +10,9 @@ Ano needs each file to be in its own project folder, with the following structur
 ```
 .
 |-- lib
-|   \`-- .holder
+|   `-- .holder
 |-- src
-|   \`-- sketch.ino
+|   `-- sketch.ino
 |-- ano.ini
 ```
 
