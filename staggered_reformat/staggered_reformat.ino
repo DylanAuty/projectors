@@ -18,6 +18,7 @@ void setup() {
 	pinMode(2, OUTPUT);
 	pinMode(3, OUTPUT);
 	pinMode(4, OUTPUT);
+  delay(30000); //Provide 10 seconds to allow projectors to be turned on
 }
 
 void loop() {
