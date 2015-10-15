@@ -13,7 +13,7 @@ In order for the projectors to remain in sync, the following must be observed:
 
 ## Power OFF
 1. Immediately *AFTER* projector *A* has FINISHED switching, turn the switch on the back to the OFF position.
-2. Do the same thing for projectors B and C, *IN ORDER* and *IMMEDIATELY* to prevent the slides getting out of sync.
+2. Do the same thing for projectors B and C, *IN ORDER* and *IMMEDIATELY after they each finish switching* to prevent the slides getting out of sync.
 3. Now switch the power to the control box/power rail off.
 
 # building and uploading
