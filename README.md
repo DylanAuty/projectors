@@ -4,6 +4,8 @@ Arduino scripts to advance 3 Kodak slide projectors in various ways.
 # building and uploading
 Tool used to flash the Arduino is called Arturo, and is a fork of ino. Ino is no longer supported, but for the most part documentation is still accurate for Arturo if you replace "ino" with "ano" everywhere.
 
+Using the official Arduino GUI, sketches need to be in their own folder because of reasons. This is what the director `staggered_reformat` is for.
+
 ## Folder structure
 Ano needs each file to be in its own project folder, with the following structure:
 
